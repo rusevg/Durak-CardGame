@@ -27,7 +27,7 @@ ranks = ('2', '3', '4', '5', '6', '7', '8', '9', '10',
 
 
 def list_for_attack_and_defence(hand):
-    # Making a comfortable list for using in defending and attack funktion.
+    # Making a comfortable list for using in defending and attack function.
     # [[value,quantity,suits], [value,quantity,suits]...] and so on.
     global paired_cards
     paired_cards = []
